@@ -1,6 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
----
 
 # 👨‍💻 Antonio Jesús Gálvez Rodríguez
 
@@ -81,27 +80,46 @@ Infraestructura completa con:
 
 ---
 
-## 📜 Formación complementaria (OpenWebinars)
+## 🎓 OpenWebinars
 
 ### ⚙️ DevOps & Automatización
 
-* Docker (contenedores y despliegue de aplicaciones)
-* Ansible (automatización de configuraciones)
-* Terraform (infraestructura como código)
+* Docker para desarrolladores
+  📄 [Ver certificado]([./docker/diploma.pdf](https://openwebinars.net/cert/rfJB?_gl=1*1ayz3ix*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
 
-### 🖥️ Sistemas & Servicios
+* Despliegues con Ansible
+  📄 [Ver certificado]([./ansible/diploma.pdf](https://openwebinars.net/cert/VXg2?_gl=1*qohiho*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
 
-* Servidor Web Apache (configuración y despliegue)
-* SSH (administración remota segura)
+* Terraform
+  📄 [Ver certificado]([./terraform/diploma.pdf](https://openwebinars.net/cert/tFJc?_gl=1*qohiho*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
 
-### 🔧 Control de versiones & documentación
+---
 
-* Git (control de versiones)
-* GitHub & Markdown (documentación técnica)
+### 🖥️ Sistemas
+
+* Servidor Web Apache
+  📄 [Ver certificado]([./apache/diploma.pdf](https://openwebinars.net/cert/Gswx?_gl=1*qohiho*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
+
+* SSH
+  📄 [Ver certificado]([./ssh/diploma.pdf](https://openwebinars.net/cert/XGiP?_gl=1*qohiho*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
+
+---
+
+### 🔧 Control de versiones
+
+* Git
+  📄 [Ver certificado]([./git/diploma.pdf](https://openwebinars.net/cert/UeIi?_gl=1*qohiho*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
+
+* GitHub & Markdown
+  📄 [Ver certificado]([./github-markdown/diploma.pdf](https://openwebinars.net/cert/pwAl?_gl=1*w2w3ic*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.))
+
+---
 
 ### 🤖 IA aplicada
 
-* ChatGPT con OpenAI (automatización y asistencia en tareas técnicas)
+* Domina ChatGPT con OpenAI
+  📄 [Ver certificado](https://openwebinars.net/cert/tbhd?_gl=1*1ayz3ix*_gcl_au*NjIyNDAwNTAyLjE3NzY2MjUwNjYuMjA4MjY3NDkzOS4xNzc2NzA0NTk5LjE3NzY3MDQ2MDY.)
+
 
 ---
 
