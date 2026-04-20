@@ -14,3 +14,125 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👨‍💻 Antonio Jesús Gálvez Rodríguez
+
+🔐 Cybersecurity & Systems Administrator
+📍 Almería, España
+🚀 Disponible para trabajar
+
+---
+
+## 🧠 Sobre mí
+
+Técnico en ciberseguridad y administración de sistemas enfocado en la **defensa de infraestructuras reales**.
+
+Mi enfoque es claro:
+
+> entender cómo atacan para poder defender correctamente
+
+Trabajo construyendo laboratorios donde aplico:
+
+* Monitorización con SIEM
+* Detección de intrusiones (IDS/IPS)
+* Segmentación de red
+* Hardening de sistemas
+
+---
+
+## ⚙️ Stack tecnológico
+
+### 🔐 Ciberseguridad
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-orange)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-red)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-black)
+
+### 🖥️ Sistemas
+
+![Linux](https://img.shields.io/badge/Linux-Admin-success)
+![Windows Server](https://img.shields.io/badge/Windows-Server-blue)
+![Apache](https://img.shields.io/badge/Apache-WebServer-red)
+![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-green)
+
+### ⚙️ DevOps & Automatización
+
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+
+### 💻 Scripting
+
+![Bash](https://img.shields.io/badge/Bash-Scripting-grey)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔐 Secure Infrastructure Lab
+
+Infraestructura completa con:
+
+* pfSense (Firewall + VLANs)
+* Suricata (IDS/IPS)
+* Wazuh (SIEM)
+* Servidores: Web, DNS y correo
+
+📌 Simulación de entorno empresarial real
+
+---
+
+### 🛡️ Intrusion Detection Lab
+
+* Red segmentada
+* Reglas personalizadas
+* Integración SIEM
+* Reducción de falsos positivos
+
+---
+
+## 📜 Formación complementaria
+
+### ⚙️ DevOps
+
+* Docker
+* Ansible
+* Terraform
+
+### 🖥️ Sistemas
+
+* Apache
+* SSH
+
+### 🔧 Control de versiones
+
+* Git
+* GitHub & Markdown
+
+### 🤖 IA aplicada
+
+* ChatGPT (OpenAI)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalvez05\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🎯 Objetivo profesional
+
+* 🔐 Ciberseguridad (SOC / Blue Team)
+* 🖥️ Administración de sistemas
+
+---
+
+## 📫 Contacto
+
+* 📧 Email: [antjesus2005@gmail.com](mailto:antjesus2005@gmail.com)
+* 📍 Almería (movilidad geográfica)
+
+---
