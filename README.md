@@ -1,19 +1,5 @@
-## Hi there 👋
-
-<!--
-**Gaalvez05/Gaalvez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 # 👨‍💻 Antonio Jesús Gálvez Rodríguez
 
 🔐 Cybersecurity & Systems Administrator
@@ -135,4 +121,5 @@ Infraestructura completa con:
 * 📧 Email: [antjesus2005@gmail.com](mailto:antjesus2005@gmail.com)
 * 📍 Almería (movilidad geográfica)
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
