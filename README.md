@@ -1,5 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+---
+
 # 👨‍💻 Antonio Jesús Gálvez Rodríguez
 
 🔐 Cybersecurity & Systems Administrator
@@ -117,6 +119,11 @@ Infraestructura completa con:
 ---
 
 ## 📫 Contacto
+
+<p align="left">
+<a href="https://www.linkedin.com/in/antonio-jesús-gálvez-rodríguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gaalvez05_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
 
 * 📧 Email: [antjesus2005@gmail.com](mailto:antjesus2005@gmail.com)
 * 📍 Almería (movilidad geográfica)
