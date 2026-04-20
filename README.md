@@ -93,27 +93,27 @@ Infraestructura completa con:
 
 ---
 
-## 📜 Formación complementaria
+## 📜 Formación complementaria (OpenWebinars)
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Automatización
 
-* Docker
-* Ansible
-* Terraform
+* Docker (contenedores y despliegue de aplicaciones)
+* Ansible (automatización de configuraciones)
+* Terraform (infraestructura como código)
 
-### 🖥️ Sistemas
+### 🖥️ Sistemas & Servicios
 
-* Apache
-* SSH
+* Servidor Web Apache (configuración y despliegue)
+* SSH (administración remota segura)
 
-### 🔧 Control de versiones
+### 🔧 Control de versiones & documentación
 
-* Git
-* GitHub & Markdown
+* Git (control de versiones)
+* GitHub & Markdown (documentación técnica)
 
 ### 🤖 IA aplicada
 
-* ChatGPT (OpenAI)
+* ChatGPT con OpenAI (automatización y asistencia en tareas técnicas)
 
 ---
 
